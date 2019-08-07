@@ -1,0 +1,37 @@
+.slider__slide {
+    width: 90%;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.slider__item {
+    display: none;
+}
+
+.active {
+    display: block;
+}
+
+.slider__1 {
+    background: blueviolet;
+}
+.slider__2 {
+    background: chartreuse;
+}
+.slider__3 {
+    background: chocolate;
+}
+.slider__4 {
+    background: darkcyan;
+}
+.slider__5 {
+    background: darkred;
+}
+
+button {
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px;
+    background: hotpink;
+    padding: 10px;
+    margin: 10px;
+}

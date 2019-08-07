@@ -1,0 +1,15 @@
+
+body{
+    background: rgb(0, 134, 128);
+}
+
+.header__nav-list {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: burlywood;
+}

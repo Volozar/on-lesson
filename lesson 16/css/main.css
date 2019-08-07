@@ -1,0 +1,12 @@
+.jsTest {
+
+    background: chartreuse;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.privet {
+    color: brown;
+    font-weight: bold;
+    font-size: 24px;
+}
