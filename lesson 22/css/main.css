@@ -1,0 +1,47 @@
+body {
+    background: darkolivegreen;
+}
+
+.slider__wrapper{
+    /* height: 200px; */
+    /* background: rgb(136, 227, 255); */
+
+}
+
+.slider__slide{
+    background: rgb(255, 136, 255);
+    border: 2px solid rgb(255, 230, 0);
+
+}
+
+.slider__sld-hidding{
+    background: blueviolet;
+    margin: 3px;
+}
+
+.slider__slide-intro{
+    background: rgb(0, 202, 10);
+    margin: 3px;
+
+}
+/* .slick-dots{
+    width: 15px;
+    height: 15px;
+    border: 2px solid brown;
+} */
+/* .slick-dots li button:before{
+    display: none;
+} */
+
+.slick-center {
+    background: blue;
+    color: maroon;
+}
+
+.slider__slide-intro {
+    font-size: 30px;
+}
+
+.slick__slide-wrapper{
+    padding: 5px;
+}
